@@ -1,6 +1,9 @@
 # ----
 # Site
 title: Johnson Premier LLC
+title_style:
+  font-size: 24px
+  font-weight: bold
 url: "https://johnsonpremierllc.github.io/"
 baseurl:
 google_analytics_key:
