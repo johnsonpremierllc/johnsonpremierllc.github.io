@@ -8,9 +8,7 @@ image: "/images/posts/buy-or-sale/buy-or-sale0.jpg"
 large_header: false
 ---
 
-Flipping is a term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.
-
-The term "flipping" is used by real estate investors to describe "residential redevelopment". Redevelopment of distressed or abandoned properties or neighborhoods has sometimes been linked to malicious and unscrupulous acts in the post housing bubble era. The term "flipping" is frequently used both as a descriptive term for schemes involving market manipulation and other illegal conduct and as a derogatory term for legal real estate investing strategies that are perceived by some to be unethical or socially destructive. In the United Kingdom the term is used to describe a technique whereby Members of Parliament were found to be switching their second home between several houses, which had the effect of allowing them to maximize their taxpayer funded allowances.
+The real estate market in metro Atlanta is constantly changing, so it can be difficult to know when the best time to buy or sell is. However, there are a few factors that can give you an idea of the best time to make a move.
 
 ![](/images/posts/buy-or-sale/buy-or-sale1.jpg){: width="960" height="350"}
 
@@ -42,7 +40,7 @@ Overall, the best time to buy or sell a home in metro Atlanta is when the market
 ### Here are some additional tips for buying or selling a home in metro Atlanta:
 
 * Get pre-approved for a mortgage. This will show sellers that you are serious about buying and will give you an idea of how much you can afford to spend.
-* Hire a real estate agent who knows the local market. A good agent can help you find the right home for your needs and negotiate a fair price.
+* Hire a real estate agent who knows the local market. A good agent like [Cassandra Johnson](https://www.instagram.com/johnson_premier/) can help you find the right home for your needs and negotiate a fair price.
 * Be prepared to act quickly. Homes in metro Atlanta often sell quickly, so it is important to be prepared to make an offer as soon as you find a home you like.
 
 By following these tips, you can increase your chances of buying or selling a home in metro Atlanta at a time that is right for you.
