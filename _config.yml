@@ -2,8 +2,6 @@
 # Site
 title: Johnson Premier LLC
 title_style:
-  font-size: 24px
-  font-weight: bold
 url: "https://johnsonpremierllc.github.io/"
 baseurl:
 google_analytics_key:
@@ -12,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Welcome
 author:
   name:
   email:
