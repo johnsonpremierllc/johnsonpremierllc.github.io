@@ -29,7 +29,7 @@ The state of the economy can also have a big impact on the real estate market. W
 Interest rates are another important factor to consider when buying or selling a home. When interest rates are low, it is more affordable to borrow money to buy a home, which can lead to higher prices and increased demand. Conversely, when interest rates are high, it is less affordable to borrow money to buy a home, which can lead to lower prices and decreased demand.
 
 
-![](/images/posts/buy-or-sale/buy-or-sale3.jpg){: width="960" height="350"}
+![](/images/posts/buy-or-sale/buy-or-sale2.jpg){: width="960" height="350"}
 
 ## Your personal circumstances
 
