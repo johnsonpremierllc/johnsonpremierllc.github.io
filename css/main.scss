@@ -9,3 +9,10 @@ $mobile-break: 700px;
 @import "layout";
 @import "forms";
 @import "cloudcannon";
+
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  /* Other styles... */
+}
