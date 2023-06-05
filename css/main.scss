@@ -9,3 +9,8 @@ $mobile-break: 700px;
 @import "layout";
 @import "forms";
 @import "cloudcannon";
+
+
+h1.site-title {
+    text-align: right;
+  }
