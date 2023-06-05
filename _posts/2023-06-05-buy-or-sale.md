@@ -1,10 +1,10 @@
 ---
-title: Best Time to Buy or Sell a Home in Metro Atlanta
+title: Buy or Sell?
 date: 2023-06-05 00:00:00
 categories:
   - Property
-author_staff_member: caddandra-johnson
-image: "https://unsplash.it/600/450?image=448&a=.png"
+author_staff_member: cassandra-johnson
+image: "/images/posts/buy-or-sale/buy-or-sale0.jpg"
 large_header: false
 ---
 
@@ -12,7 +12,7 @@ Flipping is a term used primarily in the US to describe purchasing a revenue-gen
 
 The term "flipping" is used by real estate investors to describe "residential redevelopment". Redevelopment of distressed or abandoned properties or neighborhoods has sometimes been linked to malicious and unscrupulous acts in the post housing bubble era. The term "flipping" is frequently used both as a descriptive term for schemes involving market manipulation and other illegal conduct and as a derogatory term for legal real estate investing strategies that are perceived by some to be unethical or socially destructive. In the United Kingdom the term is used to describe a technique whereby Members of Parliament were found to be switching their second home between several houses, which had the effect of allowing them to maximize their taxpayer funded allowances.
 
-![](/images/posts/buy-or-sale1.jpg){: width="960" height="350"}
+![](/images/posts/buy-or-sale/buy-or-sale1.jpg){: width="960" height="350"}
 
 
 ## Seasonal trends
@@ -24,14 +24,14 @@ In general, the real estate market in metro Atlanta is busiest during the spring
 
 The state of the economy can also have a big impact on the real estate market. When the economy is strong, more people are able to afford to buy homes, which can lead to higher prices and increased demand. Conversely, when the economy is weak, fewer people are able to buy homes, which can lead to lower prices and decreased demand.
 
-![](/images/posts/buy-or-sale2.jpg){: width="960" height="350"}
+![](/images/posts/buy-or-sale/buy-or-sale2.jpg){: width="960" height="350"}
 
 ## Interest rates
 
 Interest rates are another important factor to consider when buying or selling a home. When interest rates are low, it is more affordable to borrow money to buy a home, which can lead to higher prices and increased demand. Conversely, when interest rates are high, it is less affordable to borrow money to buy a home, which can lead to lower prices and decreased demand.
 
 
-![](/images/posts/buy-or-sale3.jpg){: width="960" height="350"}
+![](/images/posts/buy-or-sale/buy-or-sale3.jpg){: width="960" height="350"}
 
 ## Your personal circumstances
 
@@ -48,5 +48,5 @@ Overall, the best time to buy or sell a home in metro Atlanta is when the market
 By following these tips, you can increase your chances of buying or selling a home in metro Atlanta at a time that is right for you.
 
 
-![](/images/posts/buy-or-sale3.jpg){: width="960" height="350"}
+![](/images/posts/buy-or-sale/buy-or-sale4.jpg){: width="960" height="350"}
 
