@@ -38,7 +38,7 @@ defaults:
     values:
       layout: page
       background_image_path: /images/homepage/homepage-house3.jpg
-      image: /images/homepage/homepage-house3jpg
+      image: /images/homepage/homepage-house3.jpg
   -
     scope:
       path: ""
